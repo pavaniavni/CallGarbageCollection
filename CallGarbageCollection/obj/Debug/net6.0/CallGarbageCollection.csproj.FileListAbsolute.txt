@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\obj\Debug\net6.0\CallGarbageCollection.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\obj\Debug\net6.0\CallGarbageCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\obj\Debug\net6.0\CallGarbageCollection.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\obj\Debug\net6.0\CallGarbageCollection.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\obj\Debug\net6.0\CallGarbageCollection.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\bin\Debug\net6.0\CallGarbageCollection.exe
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\bin\Debug\net6.0\CallGarbageCollection.deps.json
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\bin\Debug\net6.0\CallGarbageCollection.runtimeconfig.json
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\bin\Debug\net6.0\CallGarbageCollection.dll
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\bin\Debug\net6.0\ref\CallGarbageCollection.dll
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\bin\Debug\net6.0\CallGarbageCollection.pdb
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\obj\Debug\net6.0\CallGarbageCollection.dll
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\obj\Debug\net6.0\ref\CallGarbageCollection.dll
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\obj\Debug\net6.0\CallGarbageCollection.pdb
+C:\Users\Pavani\source\repos\CallGarbageCollection\CallGarbageCollection\obj\Debug\net6.0\CallGarbageCollection.genruntimeconfig.cache
